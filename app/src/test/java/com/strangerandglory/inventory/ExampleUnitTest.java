@@ -1,4 +1,4 @@
-package com.strangerglory.inventory;
+package com.strangerandglory.inventory;
 
 import org.junit.Test;
 

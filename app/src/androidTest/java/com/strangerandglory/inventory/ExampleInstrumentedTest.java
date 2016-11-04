@@ -1,4 +1,4 @@
-package com.strangerglory.inventory;
+package com.strangerandglory.inventory;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

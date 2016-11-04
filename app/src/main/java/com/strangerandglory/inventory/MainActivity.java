@@ -1,4 +1,4 @@
-package com.strangerglory.inventory;
+package com.strangerandglory.inventory;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
