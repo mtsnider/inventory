@@ -1,3 +1,5 @@
+package com.strangerandglory.inventory;
+
 import java.util.Date;
 
 /**
