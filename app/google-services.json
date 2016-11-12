@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227440365558",
+    "firebase_url": "https://inventoryapp-e21cc.firebaseio.com",
+    "project_id": "inventoryapp-e21cc",
+    "storage_bucket": "inventoryapp-e21cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227440365558:android:0de955d0e8688e43",
+        "android_client_info": {
+          "package_name": "com.strangerglory.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227440365558-hn6ja4p724de7lejl74il4b0fng45kbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.strangerglory.inventory",
+            "certificate_hash": "0B1C48EDB00E9095122FCED976F66DEFB9E0927F"
+          }
+        },
+        {
+          "client_id": "227440365558-o7mffdq34kjm53qg4glg45pp0j1tpvm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZd9N4fiOXfR4QR2eCkPtsULLDSd_Kms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227440365558-o7mffdq34kjm53qg4glg45pp0j1tpvm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
